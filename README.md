@@ -18,4 +18,4 @@ Estudante de Análise e Desenvolvimento de Sistemas em São Paulo, em busca de *
 - 🚧 Em breve: o mesmo sistema com MySQL, depois uma API REST com Spring Boot
 
 ## Contato
-- [LinkedIn]([https://www.linkedin.com/in/mateus-gabriel-de-melo-martins-474a902ab](https://www.linkedin.com/in/mateus-gabriel-de-melo-martins-474a902ab/))
+- [LinkedIn](https://www.linkedin.com/in/mateus-gabriel-de-melo-martins-474a902ab)
