@@ -51,4 +51,4 @@ bash
 [████░░░░░░] Spring Data JPA e relacionamentos
 [███░░░░░░░] Testes automatizados
 📫 Contato
-<p> <a href="https://github.com/mateusgm15">GitHub</a> · <a href="https://www.linkedin.com/in/SEU-USUARIO">LinkedIn</a> · <a href="mailto:SEU-EMAIL">E-mail</a> </p>
+<p> <a href="https://github.com/mateusgm15">GitHub</a> · <a href="https://www.linkedin.com/in/mateus-gabriel-de-melo-martins-474a902ab/">LinkedIn</a> · <a href="mailto:mateusgabrieldemelomartins@gmail">E-mail</a> </p>
