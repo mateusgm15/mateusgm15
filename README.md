@@ -82,6 +82,6 @@ const mateus = {
 
 <p>
   <a href="https://github.com/mateusgm15">GitHub</a> ·
-  <a href="https://www.linkedin.com/in/SEU-USUARIO">LinkedIn</a> ·
-  <a href="mailto:SEU-EMAIL">E-mail</a>
+  <a href="https://www.linkedin.com/in/mateus-gabriel-de-melo-martins-474a902ab/">LinkedIn</a> ·
+  <a href="mailto:mateusgabrieldemleomartins@gmail.com">E-mail</a>
 </p>
