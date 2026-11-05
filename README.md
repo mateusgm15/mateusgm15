@@ -1,22 +1,54 @@
-# "Hello, Word
-   Eu sou o Mateus" 👋
+<h1 align="center">MATEUS</h1> <p align="center"> Estudante de ADS · Backend Java · Em busca de estágio em São Paulo </p>
+💻 Sobre mim
+js
+const mateus = {
 
-Estudante de Análise e Desenvolvimento de Sistemas em São Paulo, em busca de **estágio em desenvolvimento backend com Java**.
+  name: "Mateus",
+  education: "Análise e Desenvolvimento de Sistemas @ UNIP",
+  location: "São Paulo, Brazil 🇧🇷",
 
-## Em que estou focado
-- Java e Programação Orientada a Objetos
-- MySQL e modelagem de banco de dados
-- Spring Boot e APIs REST
+  focus: [
+    "Backend Development",
+    "Java + Spring Boot",
+    "REST APIs",
+    "Bancos de dados relacionais (MySQL)"
+  ],
 
-## Tecnologias
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  stack: {
+    backend:  ["Java", "Spring Boot", "JPA / Hibernate", "JDBC", "Python"],
+    database: ["MySQL"],
+    frontend: ["HTML", "CSS", "JavaScript"]
+  },
 
-## Projetos
-- [CRUD de Clientes](https://github.com/mateusgm15/Crud.java): cadastro via console com POO e ArrayList
-- 🚧 Em breve: o mesmo sistema com MySQL, depois uma API REST com Spring Boot
+  devops: ["Git", "GitHub", "Linux"],
 
-## Contato
-- [LinkedIn](https://www.linkedin.com/in/mateus-gabriel-de-melo-martins-474a902ab)
+  tools: ["Maven", "IntelliJ IDEA", "VS Code", "MySQL Workbench"],
+
+  currentlyLearning: [
+    "Spring Boot",
+    "Spring Data JPA",
+    "Relacionamentos entre tabelas",
+    "Arquitetura de software"
+  ],
+
+  lookingFor: "Estágio em desenvolvimento backend Java 🚀"
+
+}
+⚡ Conjunto de tecnologias
+<p align="center"> <img src="https://skillicons.dev/icons?i=java,spring,mysql,python,html,css,js,git,github,linux,idea,vscode" /> </p>
+🚀 Projetos em destaque
+🚀 Projeto	💡 Descrição
+👥 CRUD de Clientes + API REST	Evolução em etapas: CRUD em Java com POO e ArrayList → persistência em MySQL via JDBC → API REST com Spring Boot (Controller, Repository, JPA) com GET, POST, PUT e DELETE.
+🤖 Assistente Financeiro com IA	Chatbot de linha de comando em Python com a API do Google Gemini, focado em dúvidas de finanças pessoais.
+📋 Controle de Frequência	Sistema em Java com front end para registrar presença e falta de alunos (nome, data e turma), com consulta por dia. Criado para uma atividade de extensão, com o objetivo de substituir a chamada em papel.
+🎯 Missão atual
+bash
+> Loading objectives...
+
+[██████████] Java + POO
+[██████████] CRUD + MySQL (JDBC)
+[███████░░░] Spring Boot + REST APIs
+[████░░░░░░] Spring Data JPA e relacionamentos
+[███░░░░░░░] Testes automatizados
+📫 Contato
+<p> <a href="https://github.com/mateusgm15">GitHub</a> · <a href="https://www.linkedin.com/in/SEU-USUARIO">LinkedIn</a> · <a href="mailto:SEU-EMAIL">E-mail</a> </p>
