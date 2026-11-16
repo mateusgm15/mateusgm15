@@ -49,7 +49,7 @@ const mateus = {
 ## ⚡ Conjunto de tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,python,html,css,js,git,github,linux,idea,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,python,git,github,linux,idea,vscode" />
 </p>
 
 ---
